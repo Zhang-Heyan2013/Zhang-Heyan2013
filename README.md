@@ -19,7 +19,7 @@
 - **当前正在做：** 一些没有使用价值的项目
   - [EasyLocker](https://github.com/Zhang-Heyan2013/EasyLocker)
   - [RandomName](https://github.com/Zhang-Heyan2013/RandomName)
-- **兴趣爱好：** 折腾各种软件或操作系统
+- **兴趣爱好：** 折腾各种软件或操作系统，**GitHub**重度上瘾用户
 
 ## 💻 技术栈
 
